@@ -1,6 +1,6 @@
 
-# Created by https://www.gitignore.io/api/linux,macos,unity,windows,visualstudio
-# Edit at https://www.gitignore.io/?templates=linux,macos,unity,windows,visualstudio
+# Created by https://www.gitignore.io/api/unity,linux,macos,windows,visualstudio
+# Edit at https://www.gitignore.io/?templates=unity,linux,macos,windows,visualstudio
 
 ### Linux ###
 *~
@@ -104,6 +104,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.symbols.zip
 
 # Crashlytics generated file
 crashlytics-build.properties
@@ -476,4 +477,5 @@ healthchecksdb
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
 
-# End of https://www.gitignore.io/api/linux,macos,unity,windows,visualstudio
+# End of https://www.gitignore.io/api/unity,linux,macos,windows,visualstudio
+MiniGradTavern/Library/
