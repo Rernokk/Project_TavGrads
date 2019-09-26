@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/_Project/Tavern_Hub/Scenes/TavernScene.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
