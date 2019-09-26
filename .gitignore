@@ -478,4 +478,3 @@ healthchecksdb
 MigrationBackup/
 
 # End of https://www.gitignore.io/api/unity,linux,macos,windows,visualstudio
-MiniGradTavern/Library/
